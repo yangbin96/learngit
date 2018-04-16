@@ -1,1 +1,3 @@
 ﻿This is a txt file called LICENSE.
+This will  be stored in the stage.
+ 
