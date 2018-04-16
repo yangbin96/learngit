@@ -8,7 +8,7 @@ async def hello1():
 
 async def hello2():
     print('Hello world!2')
-    await asyncio.sleep(2)
+    await asyncio.sleep(4)
     print('Hello again!2 ')
 
 loop = asyncio.get_event_loop()
